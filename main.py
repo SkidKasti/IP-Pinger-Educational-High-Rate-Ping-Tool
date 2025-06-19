@@ -9,7 +9,7 @@ def ping_host(ip):
 
 def main():
     print("="*50)
-    print("      HIGH-RATE PING TOOL (EDUCATIONAL)")
+    print("      HIGH-RATE PING TOOL NY KASTISKID (Educational purposes only)")
     print("="*50)
 
     ip = input("\nEnter IP or Hostname to ping: ")
